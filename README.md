@@ -1,4 +1,4 @@
-# <center>awesome-sar-deep-learning</center>
+<h1 align='center'>awesome-sar-deep-learning</h1>
 
 ### A list of resources to get you started with Deep Learning in Synthetic Aperture Radar(SAR) images 
 
