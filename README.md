@@ -16,6 +16,7 @@
 - [NASA ARSET: Basics of Synthetic Aperture Radar (SAR), Session 1/4](https://www.youtube.com/watch?v=Xemo2ZpduHA)
 
 - [NASA ARSET: Basics of Synthetic Aperture Radar (SAR), Session 2/4](https://www.youtube.com/watch?v=OwrLh7pjHRQ)
+
 ### Papers
 
 - Deep Learning in SAR Despeckling: Trends and Perspectives [[Paper](https://arxiv.org/abs/2012.05508)]
@@ -44,6 +45,7 @@ Neural Network [[Paper](https://arxiv.org/pdf/1706.00552.pdf)] [[Code](https://g
 - [Alaska Satellite Facility (ASF)](https://search.asf.alaska.edu/#/?zoom=3.0933333333333333&center=-93.496638,40.811700)
 - [Sentinel-1 Copernicus](https://scihub.copernicus.eu/dhus/#/home)
 -  [TerraSar-X](https://tpm-ds.eo.esa.int/smcat/TerraSAR-X/)
+- [RADARSAT](https://www.eodms-sgdot.nrcan-rncan.gc.ca/index-fr.html)
 
 ### Data Processing Applications
 - [QGIS](https://qgis.org/en/site/forusers/download.html) 
