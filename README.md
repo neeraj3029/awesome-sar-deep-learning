@@ -21,6 +21,8 @@
 
 - Deep Learning in SAR Despeckling: Trends and Perspectives [[Paper](https://arxiv.org/abs/2012.05508)]
 
+- A SURE-Based Unsupervised Deep Learning Method for SAR Despeckling [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=unpf89MAAAAJ&alert_preview_top_rm=2&citation_for_view=unpf89MAAAAJ:u-x6o8ySG0sC)]
+
 - ID-CNN: SAR Image Despeckling Using a Convolutional
 Neural Network [[Paper](https://arxiv.org/pdf/1706.00552.pdf)] [[Code](https://github.com/XwK-P/ID-CNN)]
 
